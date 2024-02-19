@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I’m Gabor</h3>
 
 
-<h6 align="middle">A software engineering student and intermediate programmer from Buenos Aires. <br>
+<h6 align="middle">A software engineering student and Back-end Python developer from Buenos Aires. <br>
 I've been coding for a couple of years now and I'm looking forward to take on larger projects. </h6>
 
 <h5 align="left">Languages and Tools:</h3>
