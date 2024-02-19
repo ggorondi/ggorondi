@@ -18,8 +18,7 @@ Im currently on the lookout for a role in backend web development, ideally in Py
   <br>
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://developer.adobe.com/shared/icons/ai_appicon_64.svg" alt="aftereffects" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://developer.adobe.com/shared/icons/ai_appicon_64.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://developer.adobe.com/shared/icons/ps_appicon_64.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> <img src="https://developer.adobe.com/shared/icons/au_appicon_64.svg" alt="audition" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://developer.adobe.com/shared/icons/ae_appicon_64.svg" alt="aftereffects" width="40" height="40"/> </a>
