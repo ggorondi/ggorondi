@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I’m Gabor</h3>
 
 
-<h6 align="middle">A Software Engineering student specialized in AI and ML. I'm from New York, based in Buenos Aires. <br>
+<h6 align="middle">A Software Engineering student specialized in AI and ML. I'm from New York, currently studying in Buenos Aires. <br>
 Im currently on the lookout for a role in backend web development, ideally in Python. I'd especially love to work at a startup on a close-knit team where I can make a tangible impact quickly.</h6>
 
 <h5 align="left">Languages and Tools:</h3>
