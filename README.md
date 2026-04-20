@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I’m Gabor</h3>
 
 <h6 align="center">
-  A Software Engineering student specialized in AI and ML. I'm from New York, currently studying in Buenos Aires, moving to San Francisco next.
+  An AI/Software Engineering student specialized in AI and ML. I'm from New York, currently studying in Buenos Aires, moving to San Francisco soon.
 </h6>
 
 <h5 align="left">Languages and Tools:</h5>
